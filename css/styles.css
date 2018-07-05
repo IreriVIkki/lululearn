@@ -1,0 +1,12 @@
+.jumbotron {
+  border-radius: 0;
+  background-image: url('../img/lulu.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100%;
+  height: 450px;
+}
+
+#card-footer {
+  background-color: coral;
+}
